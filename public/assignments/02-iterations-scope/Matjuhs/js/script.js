@@ -3,7 +3,7 @@
   For each iteration log the current counter
 */
 for (let i = 20; i > 0; i = i-1){
-  console.log(i);
+ // console.log(i);
 }
 /*
   Create a for loop that creates the following arrays
@@ -21,7 +21,11 @@ for (let i = 20; i > 0; i = i-1){
   input [10, 20, 30, 40, 50]
   output [5, 10, 15, 20, 25]
 */
-
+// let numbers = [10, 20, 30, 40, 50];
+// let half = numbers.map(function(num) {
+//     return num / 2;
+// });
+// console.log (half);
 /*
   Use the array filter method to remove all characters that are not from the simpsons
   ['Smithers', 'Ernie', 'Homer', 'Bert', 'Bart', 'Police chief Wiggum', 'Baloo']
